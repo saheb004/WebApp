@@ -15,7 +15,7 @@ body {
 }
 #header {
     background-color:lightblue;
-    style:color:blue;
+    style:color:white;
     text-align:center;
     padding:32px;
 }
